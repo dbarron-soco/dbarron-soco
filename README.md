@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Daniel Barron
 
-![Profile Views](https://komarev.com/ghpvc/?username=danielbarron&colorperational Technology (OT) networks, focused on driving automation and process improvement. I thrive at the intersection of infrastructure, leadership, and innovation.
+orperational Technology (OT) networks, focused on driving automation and process improvement. I thrive at the intersection of infrastructure, leadership, and innovation.
 
 - 🔭 Currently working on: **Network Automation** in OT environments  
 - 🌱 Currently learning: **Leadership & Team Development**  
