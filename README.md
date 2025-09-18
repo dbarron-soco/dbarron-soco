@@ -21,7 +21,3 @@ Currently working in Operational Technology (OT) Networks, focused on driving au
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![SecureCRT](https://img.shields.io/badge/SecureCRT-007ACC?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Regex](https://img.shields.io/badge/Regex-FF4088?style=for-the-badge&logo=codeforces&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?usernameapp/api/top-langs/?username=dbarron-soco&layout=compact&theme
