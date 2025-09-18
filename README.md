@@ -24,4 +24,4 @@ Currently working in Operational Technology (OT) Networks, focused on driving au
 
 ## 📊 GitHub Stats
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?usernameapp/api/top-langs/?username=danielbarron&layout=compact&theme
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?usernameapp/api/top-langs/?username=dbarron-soco&layout=compact&theme
