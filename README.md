@@ -16,12 +16,11 @@ orperational Technology (OT) networks, focused on driving automation and process
 
 ## 🛠️ Tech Stack
 
-Here are some tools I use regularly:
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&at-square&logo=le=flat-square&logo=windows-terminal&logoColor=ions)  
-- 🛠️ Infrastructure Automation  
-- 🧭 Leadership Development  
-- 📡 Radio Communications
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![SecureCRT](https://img.shields.io/badge/SecureCRT-007ACC?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-FF4088?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ## 📊 GitHub Stats
 
