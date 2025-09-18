@@ -1,25 +1,28 @@
-# Hi there, I'm Daniel Barron 👋
+# 👋 Hi there, I'm Daniel Barron
 
-![Profile Views](https://komarev.com/ghpvc/?username=danielbarron&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=danielbarron&colorperational Technology (OT) networks, focused on driving automation and process improvement. I thrive at the intersection of infrastructure, leadership, and innovation.
 
-## 🚀 About Me
+- 🔭 Currently working on: **Network Automation** in OT environments  
+- 🌱 Currently learning: **Leadership & Team Development**  
+- 👯 Open to collaborating on: **Automation projects with measurable impact**  
+- 💬 Ask me about: **Network operations, automation workflows, and team building**  
+- ⚡ Fun fact: I'm a licensed HAM Radio Operator — callsign **W1XDB**
 
-- 🔭 I’m currently working on: Network Automation
-- 🌱 I’m currently learning: Leadership
-- 👯 I’m looking to collaborate on: Network automation projects that provide tangible results
-- 💬 Ask me about: Network operations processes and automation tasks
-- ⚡ Fun fact: I am a licensed HAM Radio Operator. My callsign is W1XDB
+## 👨‍💼 Current Role
 
-## 👨‍💻 Current Role
-
-- 🧑‍💼 OT Networks Supervisor
-- 📍 Based in Atlanta, GA
+- 🧑‍💼 **Supervisor, OT Networks**  
+- 📍 Based in **Atlanta, GA**  
+- 🎯 Focused on: Leading infrastructure teams, hiring & mentoring, and building resilient OT systems
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+Here are some tools I use regularly:
 
-## 🌐 Connect with Me
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&at-square&logo=le=flat-square&logo=windows-terminal&logoColor=ions)  
+- 🛠️ Infrastructure Automation  
+- 🧭 Leadership Development  
+- 📡 Radio Communications
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielbarron89/)
+## 📊 GitHub Stats
+
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielbarron&show_iconsme=danielbarron&layout=compact&theme&logo
