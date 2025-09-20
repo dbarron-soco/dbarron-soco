@@ -1,20 +1,20 @@
-# 👋 Hi there, I'm Daniel Barron
+# I'm Daniel Barron
 
 Currently working in Operational Technology (OT) Networks, focused on driving automation and process improvement. I thrive at the intersection of infrastructure, leadership, and innovation.
 
-- 🔭 Currently working on: **Network Automation** in OT environments  
-- 🌱 Currently learning: **Leadership & Team Development**  
-- 👯 Open to collaborating on: **Automation projects with measurable impact**  
-- 💬 Ask me about: **Network operations, automation workflows, and team building**  
-- ⚡ Fun fact: I'm a licensed HAM Radio Operator — callsign **W1XDB**
+- Currently working on: **Network Automation** in OT environments  
+- Currently learning: **Leadership & Team Development**  
+- Open to collaborating on: **Automation projects with measurable impact**  
+- Ask me about: **Network operations, automation workflows, and team building**  
+- Fun fact: I'm a licensed HAM Radio Operator — callsign **W1XDB**
 
-## 👨‍💼 Current Role
+## Current Role
 
-- 🧑‍💼 **Supervisor, OT Networks**  
-- 📍 Based in **Atlanta, GA**  
-- 🎯 Focused on: Leading infrastructure teams, hiring & mentoring, and building resilient OT systems
+- **Supervisor, OT Networks**  
+- Based in **Atlanta, GA**  
+- Focused on: Leading infrastructure teams, hiring & mentoring, and building resilient OT systems
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
